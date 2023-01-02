@@ -1,9 +1,3 @@
-name: "boringssl"
-description: "BoringSSL is a fork of OpenSSL that is designed to meet Google's needs."
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://boringssl.googlesource.com/boringssl"
-  }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0424587f17ebb5820d3505f19b6bd6a5ca53efc1f7d4c631db94e07481ad68dc
+size 233
